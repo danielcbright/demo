@@ -1,0 +1,11 @@
+name 'demo'
+supports 'Linux'
+maintainer 'Daniel Bright'
+maintainer_email 'danielcbright@gmail.com'
+license 'Apache-2.0'
+description 'None'
+long_description 'None'
+version '0.0.1'
+chef_version '>= 15' if respond_to?(:chef_version)
+issues_url 'https://github.com/danielcbright/demo/issues'
+source_url 'https://github.com/danielcbright/demo'
